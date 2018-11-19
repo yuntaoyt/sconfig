@@ -1,0 +1,2 @@
+# sconfig
+config
